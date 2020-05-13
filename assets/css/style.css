@@ -3,9 +3,19 @@
 
 body {
     font-family: 'Muli', sans-serif;
-    color: black;
+    
 }
 
+.bg-black {
+    background-color: #050505;
+}
 
+.nav-link.active, .nav-link:hover{
+    color: #fdfdfd !important;
+}
 
+.navbar-brand {
+    height: 110px;
+    width: 220px;
+}
 
