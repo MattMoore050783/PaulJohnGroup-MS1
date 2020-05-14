@@ -5,6 +5,10 @@ body {
     background-color: black;
 }
 
+h2,h1 {
+    text-align: center;
+}
+
 /* css for menu */
 
 .bg-black {
@@ -20,3 +24,14 @@ body {
     width: 220px;
 }
 
+.groupcontainer-white {
+    margin-top: 30px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+.resize-image {
+    height: 85%;
+    width: 100%;
+}
