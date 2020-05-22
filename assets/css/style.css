@@ -5,13 +5,13 @@ body {
     background-color: black;
 }
 
-h1 {
+h1, h2 {
     text-align: center;
     margin-bottom: 0.5cm;
     font-weight: bold;
 }
 
-h2 {
+h3 {
     text-align: left;
     margin-bottom: 0.5cm;
     font-weight: bold;
@@ -39,16 +39,28 @@ p {
 
 /* css for menu */
 
+.media {
+    margin-top: 3cm;
+}
+
 .groupcontainer-white {
     background-color: white;
     color: black;
-    margin-bottom: 15px;
+    padding-bottom: 1cm;
+}
+
+.groupcontainer-black-video{
+    background-color: black;
+    color: white;
+    margin-top: 3cm;
+    margin-bottom: 1.5cm;
 }
 
 .groupcontainer-black{
     background-color: black;
     color: white;
-    margin-top: 15px;
+    margin-top: 0.5cm;
+    margin-bottom: 1.5cm;
 }
 
 
