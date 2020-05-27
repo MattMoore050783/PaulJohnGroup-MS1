@@ -17,6 +17,10 @@ h3 {
     font-weight: bold;
 }
 
+h5 {
+    text-align: center;
+}
+
 p {
     text-align: left;
 }
@@ -47,6 +51,7 @@ p {
     background-color: white;
     color: black;
     padding-bottom: 1cm;
+    padding-top: 1cm;
 }
 
 .groupcontainer-black-video{
@@ -66,5 +71,14 @@ p {
 
 .what-we-do {
     margin-bottom: 0.5cm;
+}
+
+.groupcontainer-white-hands {
+    background-color: white;
+    color: black;
+    padding-bottom: 1cm;
+    padding-top: 1cm;
+    padding-left: 2cm;
+    padding-right: 2cm;
 }
 
