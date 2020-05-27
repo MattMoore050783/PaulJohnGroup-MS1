@@ -17,6 +17,11 @@ h3 {
     font-weight: bold;
 }
 
+h4 {
+    text-align: center;
+    text-decoration: underline;
+}
+
 h5 {
     text-align: center;
 }
@@ -69,16 +74,16 @@ p {
 }
 
 
-.what-we-do {
-    margin-bottom: 0.5cm;
-}
-
 .groupcontainer-white-hands {
     background-color: white;
     color: black;
     padding-bottom: 1cm;
     padding-top: 1cm;
-    padding-left: 2cm;
-    padding-right: 2cm;
+    padding-left: 1cm;
+    padding-right: 1cm;
+}
+
+#logo-spacing {
+    padding-bottom: 1cm;
 }
 
