@@ -24,6 +24,7 @@ h4 {
 
 h5 {
     text-align: center;
+    color: white;
 }
 
 p {
@@ -46,10 +47,24 @@ p {
     width: 220px;
 }
 
+.intro {
+    padding-top: 3cm;
+    color: white;
+    text-align: center;
+}
+
+.groupcontainer-black-intro{
+    background-color: black;
+    color: white;
+    margin-top: 0.5cm;
+    margin-bottom: 0.25cm;
+}
+
+
 /* css for menu */
 
 .media {
-    margin-top: 3cm;
+    margin-top: 1cm;
 }
 
 .groupcontainer-white {
@@ -62,7 +77,7 @@ p {
 .groupcontainer-black-video{
     background-color: black;
     color: white;
-    margin-top: 3cm;
+    margin-top: 0.5cm;
     margin-bottom: 1.5cm;
 }
 
@@ -87,3 +102,18 @@ p {
     padding-bottom: 1cm;
 }
 
+.follow-us i {
+    font-size: 50px;
+    color: white;
+    padding-right: 1.5cm;
+    padding-left: 1.5cm;
+    padding-top: 1.5cm;
+    overflow-wrap: unset;
+}
+
+.find-us iframe {
+    padding-right: 0.25cm;
+    padding-left: 0.25cm ;
+    padding-top: 0.25cm;
+    padding-bottom: 0.25cm;
+}
