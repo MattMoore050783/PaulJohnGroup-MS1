@@ -102,18 +102,60 @@ p {
     padding-bottom: 1cm;
 }
 
-.follow-us i {
-    font-size: 50px;
+.groupcontainer-black-footer{
+    background-color: black;
     color: white;
-    padding-right: 1.5cm;
-    padding-left: 1.5cm;
-    padding-top: 1.5cm;
-    overflow-wrap: unset;
+    margin-top: 0.5cm;
+    margin-bottom: 1.5cm;
+    height: 350px;
 }
 
-.find-us iframe {
-    padding-right: 0.25cm;
-    padding-left: 0.25cm ;
-    padding-top: 0.25cm;
-    padding-bottom: 0.25cm;
+.groupcontainer-black-footer h3{
+    text-align: center;
 }
+
+.find-us {
+    padding-bottom: 230px;
+}
+
+.social-media i {
+    color: #fdfdfd;
+    padding-right: 0.5cm;
+    font-size: 2cm;
+    justify-content: center;
+}
+
+.social-media i:hover {
+    color: gray;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding-bottom: 1.5cm;
+}
+
+.social-media-icons  {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    }
+
+.find-us iframe {
+    padding-right: 20px;
+}
+
+.company-info p {
+    text-align: center;
+}
+
+.company-info {
+    padding-bottom: 2cm;
+}
+
+.copyright p {
+    text-align: center;
+}
+
