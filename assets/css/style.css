@@ -19,7 +19,6 @@ h3 {
 
 h4 {
     text-align: center;
-    text-decoration: underline;
 }
 
 h5 {
@@ -157,4 +156,41 @@ li {
 .copyright p {
     text-align: center;
 }
+
+.case-study p {
+    padding-left: 0.75cm;
+    padding-right: 0.75cm;
+}
+
+.case-study img {
+    padding-top: 15px;
+    padding-bottom: 25px;
+    height: 100%;
+    width: 100%;
+}
+
+.case-study-black-one {
+    background-color: black;
+    color: white;
+    padding-top: 150px;
+}
+
+
+.case-study-white {
+    background-color:white;
+    color:black;
+    padding-top: 50px;
+    
+}
+
+
+.case-study-black{
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+}
+
+
+
+
 
