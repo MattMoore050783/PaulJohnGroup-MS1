@@ -180,6 +180,7 @@ li {
     background-color:white;
     color:black;
     padding-top: 50px;
+    padding-bottom: 50px;
     
 }
 
@@ -190,7 +191,26 @@ li {
     padding-top: 50px;
 }
 
+.news-section-black-one {
+    background-color: black;
+    color: white;
+    padding-top: 150px;
+}
 
 
+.news-section-white {
+    background-color:white;
+    color:black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
 
+.news-section-black {
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
 
