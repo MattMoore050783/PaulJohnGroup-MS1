@@ -214,3 +214,40 @@ li {
     
 }
 
+.contact-us-header {
+    background-color: black;
+    color: white;
+    padding-top: 150px;
+}
+
+.contact-us-header p {
+    text-align: center;
+}
+
+.contactpage label {
+    color: white;
+}
+
+.contactpage {
+    padding-bottom: 50px;
+}
+
+.contact-page {
+    margin-bottom: 15px;
+    width: 85%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.btn-primary {
+    background-color: white;
+    color: black;
+    width: 25%;
+    float: right;
+    border: none;
+    
+}
+
+.btn-primary:hover {
+    background-color: grey;
+}
