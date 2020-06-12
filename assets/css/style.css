@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 @import url('https://fonts.googleapis.com/css?family=Muli:400,500,700,900&display=swap');
 
 body {
@@ -24,6 +31,11 @@ h4 {
 h5 {
     text-align: center;
     color: white;
+}
+
+h6 {
+    text-align: center;
+    font-weight: bold;
 }
 
 p {
@@ -120,7 +132,9 @@ p {
     color: #fdfdfd;
     padding-right: 0.5cm;
     font-size: 1.2cm;
-    justify-content: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
 }
 
 .social-media i:hover {
@@ -136,9 +150,15 @@ li {
 }
 
 .social-media-icons  {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
     display: flex !important;
-    align-items: center !important;
-    justify-content: center !important;
+    -webkit-box-align: center !important;
+        -ms-flex-align: center !important;
+            align-items: center !important;
+    -webkit-box-pack: center !important;
+        -ms-flex-pack: center !important;
+            justify-content: center !important;
     }
 
 .find-us iframe {
