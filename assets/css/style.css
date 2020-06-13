@@ -93,6 +93,10 @@ p {
     margin-bottom: 1.5cm;
 }
 
+.groupcontainer-black h3 {
+    color: black;
+}
+
 .groupcontainer-white-hands {
     background-color: white;
     color: black;
