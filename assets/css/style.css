@@ -1,9 +1,3 @@
-/*
-* Prefixed by https://autoprefixer.github.io
-* PostCSS: v7.0.29,
-* Autoprefixer: v9.7.6
-* Browsers: last 4 version
-*/
 
 @import url('https://fonts.googleapis.com/css?family=Muli:400,500,700,900&display=swap');
 
@@ -272,10 +266,16 @@ li {
     background-color: grey;
 }
 
+
+
 @media (min-width: 320px) and (max-width: 480px) {
   
     .navbar-brand {
         height: 75px;
         width: 130px;
     }
+
+   h4 {
+       font-size: 18px;
+   }
 }
