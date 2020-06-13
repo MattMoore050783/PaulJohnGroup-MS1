@@ -267,6 +267,12 @@ li {
     background-color: grey;
 }
 
+.groupcontainer-black-footer iframe {
+    width: 100%;
+    height: 180%;
+    border: 0;
+}
+
 
 
 @media (min-width: 320px) and (max-width: 480px) {
@@ -280,3 +286,4 @@ li {
        font-size: 18px;
    }
 }
+
