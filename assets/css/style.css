@@ -63,13 +63,14 @@ p {
     color: white;
     margin-top: 0.5cm;
     margin-bottom: 0.25cm;
+    padding-bottom: 0.5cm;
 }
 
 
 /* css for menu */
 
 .media {
-    margin-top: 1cm;
+    margin-top: 0.5cm;
 }
 
 .groupcontainer-white {
@@ -91,10 +92,6 @@ p {
     color: white;
     margin-top: 0.5cm;
     margin-bottom: 1.5cm;
-}
-
-.groupcontainer-black h3 {
-    color: black;
 }
 
 .groupcontainer-white-hands {
