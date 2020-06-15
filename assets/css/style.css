@@ -212,6 +212,10 @@ li {
     padding-top: 50px;
 }
 
+.contractdetails {
+    padding-bottom: 0.5cm;
+}
+
 .news-section-black-one {
     background-color: black;
     color: white;
