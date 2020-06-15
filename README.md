@@ -317,7 +317,7 @@ All Images/Video was created and owned by Paul John Group.
 ### Acknowledgements
 
 Many Thanks to the below for help and guidance throughout the project.
-  -  My Tutor - Rahul
+  -  My Mentor - Rahul
   -  Code Institutes Support Team - For support during the lockdown period while I was working more than usual.
   - The slack community, especially Malia and Igor for there feedback and testing.
   - Code Institutes online learning program to enable me to expand my knowledge to create this website.
