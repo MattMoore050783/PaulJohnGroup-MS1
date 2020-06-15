@@ -291,5 +291,16 @@ li {
    h4 {
        font-size: 18px;
    }
+
+   .contactpage {
+       padding-left: 1cm;
+       padding-right: 1cm;
+   }
+
+   .contact-us-header {
+    padding-left: 1cm;
+    padding-right: 1cm;
+}
+
 }
 
