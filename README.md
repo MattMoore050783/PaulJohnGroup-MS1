@@ -109,21 +109,21 @@ Wireframes were created using software called Pencil on Macbook.
 
 Please see the links to the wireframes below.
 
-Home - Main Browser - ![MainBrowserHome](Documentation/Wireframes/Home-MainBrowser.pdf)
-Home - Tablet - ![TabletHome](Documentation/Wireframes/Home-Tablet.pdf)
-Home - Mobile - ![MobileHome](Documentation/Wireframes/Home-Mobile.pdf)
+Home - Main Browser - [MainBrowserHome](Documentation/Wireframes/Home-MainBrowser.pdf)
+Home - Tablet - [TabletHome](Documentation/Wireframes/Home-Tablet.pdf)
+Home - Mobile - [MobileHome](Documentation/Wireframes/Home-Mobile.pdf)
 
-Case Studies - Main Browser - ![MainBrowserCaseStudies](Documentation/Wireframes/CaseStudies-MainBrowser.pdf)
-Case Studies - Tablet - ![TabletCaseStudies](Documentation/Wireframes/CaseStudies-Tablet.pdf)
-Case Studies - Mobile - ![MobileCaseStudies](Documentation/Wireframes/CaseStudies-Mobile.pdf)
+Case Studies - Main Browser - [MainBrowserCaseStudies](Documentation/Wireframes/CaseStudies-MainBrowser.pdf)
+Case Studies - Tablet - [TabletCaseStudies](Documentation/Wireframes/CaseStudies-Tablet.pdf)
+Case Studies - Mobile - [MobileCaseStudies](Documentation/Wireframes/CaseStudies-Mobile.pdf)
 
-News - Main Browser - ![MainBrowserNews](Documentation/Wireframes/News-MainBrowser.pdf)
-News - Tablet - ![TabletNews](Documentation/Wireframes/News-Tablet.pdf)
-News - Mobile - ![MobileNews](Documentation/Wireframes/News-Mobile.pdf)
+News - Main Browser - [MainBrowserNews](Documentation/Wireframes/News-MainBrowser.pdf)
+News - Tablet - [TabletNews](Documentation/Wireframes/News-Tablet.pdf)
+News - Mobile - [MobileNews](Documentation/Wireframes/News-Mobile.pdf)
 
-Contact Us - Main Browser - ![MainBrowserContactUs](Documentation/Wireframes/ContactUs-MainBrowser.pdf)
-Contact Us - Tablet - ![TabletContactUs](Documentation/Wireframes/ContactUs-Tablet.pdf)
-Contact Us - Mobile - ![MobileContactUs](Documentation/Wireframes/ContactUs-Mobile.pdf)
+Contact Us - Main Browser - [MainBrowserContactUs](Documentation/Wireframes/ContactUs-MainBrowser.pdf)
+Contact Us - Tablet - [TabletContactUs](Documentation/Wireframes/ContactUs-Tablet.pdf)
+Contact Us - Mobile - [MobileContactUs](Documentation/Wireframes/ContactUs-Mobile.pdf)
 
 **Design Changes to Wireframes**
 
