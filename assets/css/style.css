@@ -40,11 +40,11 @@ p {
 /* css for menu */
 
 .bg-black {
-    background-color: #050505;
+    background-color: #000000;
 }
 
 .nav-link.active, .nav-link:hover{
-    color: #fdfdfd !important;
+    color: #ffffff !important;
 }
 
 .navbar-brand {
@@ -133,7 +133,7 @@ p {
 }
 
 .social-media i:hover {
-    color: gray;
+    color: #707070;
 }
 
 ul {
@@ -264,7 +264,7 @@ li {
 }
 
 .btn-primary:hover {
-    background-color: grey;
+    background-color: #707070;
 }
 
 .groupcontainer-black-footer iframe {
