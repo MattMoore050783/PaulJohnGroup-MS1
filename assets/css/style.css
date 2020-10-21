@@ -292,6 +292,10 @@ li {
     border: 0;
 }
 
+.social-media h3 {
+    text-align: center;
+}
+
 
 
 @media (min-width: 320px) and (max-width: 480px) {
