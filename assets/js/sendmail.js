@@ -21,7 +21,6 @@ function sendMail(contactForm) {
         function (error) {
             alert("Whoops! An error occurred, please try again.", error);
         });
-// Clear form after submitting
-        document.getElementById('contactForm').reset();
+        
 return false;
 }
