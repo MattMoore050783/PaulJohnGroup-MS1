@@ -294,7 +294,14 @@ li {
 
 .social-media h3 {
     text-align: center;
+
 }
+
+#donington {
+    width: 70%;
+    height: 80%;
+}
+
 
 @media screen and (max-width: 992px) {
     
@@ -307,6 +314,7 @@ li {
     }
 
   }
+
 
 
 @media (min-width: 320px) and (max-width: 480px) {
