@@ -20,6 +20,15 @@
         <title>Paul John Group | Contact Us</title>
         <!-- Link to Internal CSS -->
         <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+        <script
+        type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+    <script type="text/javascript">
+        (function () {
+            emailjs.init("user_rPfPoRcIbhQquB1q6No7x");
+        })();
+    </script>
+
     </head>
 
     <body>
@@ -68,7 +77,7 @@
         </div>
 
         <div class="row justify-content-center contactpage">
-            <form class="col-md-6 col-xs-12">
+            <form class="col-md-6 col-xs-12 contactForm" onsubmit="return sendMail(this);">
 
                 <label for="name" class="name">Name</label>
                 <input
@@ -121,7 +130,7 @@
                     required="required"></textarea>
                 <br>
 
-                <button class="btn btn-primary" type="submit">Submit</button>
+                <button class="btn btn-primary" id="contact-button" type="submit">Submit</button>
 
             </form>
         </div>
@@ -197,6 +206,8 @@
             src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
             integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
             crossorigin="anonymous"></script>
+
+            <script src="assets/js/sendmail.js"></script>
     </body>
 
 </html>
