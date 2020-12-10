@@ -296,6 +296,17 @@ li {
     text-align: center;
 }
 
+@media screen and (max-width: 992px) {
+    
+    .groupcontainer-black img{
+      padding: 25px;
+    }
+
+    #curator-feed-twitter-layout {
+        padding: 20px;
+    }
+
+  }
 
 
 @media (min-width: 320px) and (max-width: 480px) {
